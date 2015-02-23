@@ -1,6 +1,5 @@
-# wmiscan
-## WMI Enumeration Utility 
-===
+# wmiscan (WMI Enumeration Utility)
+---
 wmi enumration utility for collecting various information.
 
 * Operating System Information
