@@ -18,10 +18,18 @@ wmi enumration utility for collecting various information.
 ## HELP
 
 usage: WMIScan [-h] [-ip IP] [-u USER] [-p PASSWORD] [--version]
+
 WMI Scanner v1.0.
+
 optional arguments:
+
   -h, --help   show this help message and exit
+  
   -ip IP       specify a remote IP.
+  
   -u USER      specify a username.
+  
   -p PASSWORD  specify a password.
+  
   --version    show program's version number and exit
+  
