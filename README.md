@@ -15,7 +15,7 @@ wmi enumration utility for collecting various information.
 * List of Services
 * List of Processes
 
-## HELP
+### HELP
 
 usage: WMIScan [-h] [-ip IP] [-u USER] [-p PASSWORD] [--version]
 
@@ -32,4 +32,5 @@ optional arguments:
   -p PASSWORD  specify a password.
   
   --version    show program's version number and exit
-  
+
+*Run locally without give any optional arguments.*
